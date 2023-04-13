@@ -1,0 +1,16 @@
+{
+
+  "users":[
+  
+  {
+  
+  "id":1,
+  "name": "Akhila",
+  "password": "akhila#135",
+  "email": "akhila@gmail.com",
+  "role":"employer"
+  
+     }
+  ]
+  
+  }

@@ -1,0 +1,17 @@
+.login{
+    margin: auto;
+    width: 600px;
+    border: 20px solid rgb(36, 91, 20);
+    padding: 20px 50px;
+
+}
+h1{
+    text-align: center;
+    color: rgb(18, 118, 9);
+}
+.register{
+    margin: auto;
+    width: 600px;
+    border: 20px solid rgb(36, 91, 20);
+    padding: 20px 50px;
+}
